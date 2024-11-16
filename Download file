@@ -1,0 +1,12 @@
+# Flappy Bird Game v1.0
+
+A simple Flappy Bird clone built with LÖVE 2D!
+
+## How to Play:
+1. Install LÖVE 2D from [https://love2d.org/](https://love2d.org/).
+2. Download and unzip the game folder.
+3. Run the game using the LÖVE 2D application:
+   - On macOS/Linux: Run `love .` in the terminal.
+   - On Windows: Double-click the `.love` file or use `love .` in the command prompt.
+   
+Enjoy the game!
